@@ -1,0 +1,10 @@
+#ifndef KYBER_SPLIT_TA_H
+#define KYBER_SPLIT_TA_H
+
+#define TA_KYBER_SPLIT_UUID \
+    { 0x12345678, 0x1234, 0x5678, \
+      { 0x12, 0x34, 0x56, 0x78, 0x12, 0x34, 0x56, 0x78 } }
+
+#define TA_SECURE_ADD 0
+
+#endif
